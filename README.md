@@ -6,7 +6,7 @@ _Love, Peace and **Unity3D**._
 
 _Well, 2D, and a plan for a further ½ of a dimension.._
 
-As a big Android enthusiast, I loved the idea of _short_ games like [Dumb Ways To Die](https://www.dumbwaystodie.com/), [Fruit Ninja](https://www.halfbrick.com/games/fruit-ninja) and _other_ games like [Limbo](https://playdead.com/games/limbo/), [Minecraft PE/BE](https://www.minecraft.net/en-us/store/minecraft-android) and [Terraria.](https://terraria.org/)
+As a big Android enthusiast, I loved the idea of _short_ games like [Dumb Ways To Die](https://www.dumbwaystodie.com/), [Fruit Ninja](https://www.halfbrick.com/games/fruit-ninja) and _other_ games like [Limbo](https://playdead.com/games/limbo/), [Minecraft for Android](https://www.minecraft.net/en-us/store/minecraft-android) and [Terraria.](https://terraria.org/)
 
 I heard about a certain [herb](https://www.southparkstudios.com/episodes/x5mqiz/south-park-medicinal-fried-chicken-season-14-ep-3), considered the _niche market need_ and gave it a go.
 
