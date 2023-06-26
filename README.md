@@ -18,7 +18,7 @@ It's probably one of the most interesting (to me) [Pp][Oo][SsCc] projects I had 
 
 It was written in [_**C#**_](https://en.wikipedia.org/wiki/C%E2%99%AF_(musical_note)) and powered, of course, by [Unity☮](https://unity.com/)
 
-I created the artwork in Inkscape, and went from no idea to this version in less than [7 days](https://www.csfd.cz/film/43514-kruh/prehled/)
+I created the artwork in [Inkscape](https://inkscape.org/), and went from no idea to this version in less than [7 days](https://www.csfd.cz/film/43514-kruh/prehled/)
 
 It's one of my pet projects and I'm definetely going to give it another try. I have lost all of the Unity / Inkscape files and would have to start from scratch.
 
