@@ -1,6 +1,6 @@
-# Tripy
+# Tripy [☯](https://github.com/KayserSoze42/Tripy/releases/tag/0.2.4-tripy)
 
-_Love, Peace and **Unity3D**._
+_Love, Peace and **Unity3D**._ 
 
 ![img](https://github.com/KayserSoze42/Tripy/blob/main/b.png?raw=true)
 
