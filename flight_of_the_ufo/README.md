@@ -8,7 +8,7 @@ I haven't watched this [lobster](https://www.csfd.cz/film/364012-humr/prehled/) 
 
 But the fact stands.
 
-Once you ignore enough dirty plates and empty bottles, innanimate turns to Adove Creative Avalanche.
+Once you ignore enough dirty plates and empty bottles, innanimate turns into Adove Creative Avalanche.
 
 I'm merely speaking from experience.
 
