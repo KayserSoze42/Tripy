@@ -4,7 +4,7 @@ https://github.com/KayserSoze42/Tripy/assets/58406668/126c44b1-92c4-49d5-9ce4-78
 
 _**Piertotum ufo locomotor**_
 
-I haven't watched this [lobster](https://www.csfd.cz/film/364012-humr/prehled/) yet, and I don't care for this [lobsters](https://mensgroup.com/jordan-peterson-clean-up-your-room/) anymore.
+I haven't watched this [lobster](https://www.csfd.cz/film/364012-humr/prehled/) yet, and I don't care for these [lobsters](https://mensgroup.com/jordan-peterson-clean-up-your-room/) anymore.
 
 But the fact stands.
 
