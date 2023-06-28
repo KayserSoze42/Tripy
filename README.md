@@ -38,5 +38,5 @@ And a lot more I forgot.
 
 Feel [free to steal](https://github.com/KayserSoze42/Tripy/releases/tag/0.2.4-tripy).
 
-"And keep on rockin' in the free world."
+_"And keep on rockin' in the free world."_
 
