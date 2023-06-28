@@ -30,7 +30,7 @@ I have learned a lot about mathematics and physics in video games, dealing with 
 
 I have learned about the ecosystem, how to try and save some memory and also use that memory in bestest of ways. 
 
-I have learned about the openness of the sources in the Android community, and a general strive for the _**root factor.**_
+I have learned about the openness of the sources in the Android community, and a general strive for _**the root factor.**_
 
 And a lot more I forgot.
 
