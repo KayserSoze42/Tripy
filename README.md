@@ -34,9 +34,9 @@ I have learned about the openness of the sources in the Android community, and a
 
 And a lot more I forgot.
 
-Let me know what you think. 
+[Let me know](mailto:oxiemoron@plaintech.ink?subject=Regarding42069&body=u-sux) what you think. 
 
-Feel free to steal.
+Feel [free to steal](https://github.com/KayserSoze42/Tripy/releases/tag/0.2.4-tripy).
 
 "And keep on rockin' in the free world."
 
