@@ -16,7 +16,7 @@ But again.
 
 It's probably one of the most interesting (to me) [Pp][Oo][SsCc] projects I had the pleasure of working on. And you can kinda moonwalk. Lol.
 
-It was written in [_**C#**_](https://en.wikipedia.org/wiki/C%E2%99%AF_(musical_note)) and powered, of course, by [Unity☮](https://unity.com/)
+It was written in [_**C♯**_](https://en.wikipedia.org/wiki/C%E2%99%AF_(musical_note)) and powered, of course, by [Unity☮](https://unity.com/)
 
 I created the artwork in [Inkscape](https://inkscape.org/), and went from no idea to this version in less than [7 days](https://www.csfd.cz/film/43514-kruh/prehled/)
 
