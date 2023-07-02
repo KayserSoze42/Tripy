@@ -18,4 +18,6 @@ _**Disclaimer:**_
 
 _**The "music" is there as a placeholder, go listen them live or whatever, I don't care.**_
 
-_I actually had plans in motion to have by request accordion recordings, by a fellow academic. Lol, XXI C++_
+_I actually had plans in motion to have by request accordion recordings, from a friend, a fellow "academic"(He is, I wasn't). Lol, XXI C++_
+
+_zaKi & diAn_
